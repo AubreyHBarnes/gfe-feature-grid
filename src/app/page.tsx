@@ -8,7 +8,8 @@ export default async function Home() {
 
   interface Card {
     title: string, 
-
+    icon: string,
+    body: string
   }
   
   return (
