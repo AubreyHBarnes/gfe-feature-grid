@@ -1,7 +1,12 @@
 import Image from "next/image";
 
+interface Card {
+    title: string, 
+    icon: string,
+    body: string
+  }
 
-export default function FeatureCard(card: object) {
+export default function FeatureCard(card: Card) {
     return (
         <div key={card.title} className="feature-card flex flex-col gap-3 items-center max-w-[52ch]">
             <Image
