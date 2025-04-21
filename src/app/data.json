@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Infinite Download",
+        "body": "Once you subscribe to our plans, they're all yours. Download as many as you want and use them for work presentations, wallpapers, and much more.",
+        "icon": "/icons/download-icon.svg"
+    },
+    {
+        "title": "Purely Handcrafted",
+        "body": " No AI, no generic images. Crafted from various chemicals, fabrics, clouds, or even particles as small as dust.",
+        "icon": "/icons/handcrafted-icon.svg"
+    },
+    {
+        "title": "All Are Under License",
+        "body": "The only limitation with these abstract images is that you are not able to sell them in any form, whether digital or hard copy (such as paintings or prints on paper).",
+        "icon": "/icons/copyright-icon.svg"
+    },
+    {
+        "title": "Cancel Anytime",
+        "body": "Subscribe at your own pace, and cancel when you feel it's enough.",
+        "icon": "/icons/cancel-icon.svg"
+    },
+    {
+        "title": "Empowering For Teams",
+        "body": "We support multiple seats at once, requiring only a single payment.",
+        "icon": "/icons/team-icon.svg"
+    },
+    {
+        "title": "No Limitations",
+        "body": "Use as many as you want, from Dribbble presentations to PowerPoint presentations.",
+        "icon": "/icons/no-limit-icon.svg"
+    }
+]
