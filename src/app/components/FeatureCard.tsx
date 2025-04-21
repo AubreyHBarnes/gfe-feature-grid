@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function FeatureCard(card: object) {
     return (
-        <div key={card.title} className="feature-card flex flex-col gap-3 items-center">
+        <div key={card.title} className="feature-card flex flex-col gap-3 items-center max-w-[52ch]">
             <Image
               src={card.icon}
               alt=""
